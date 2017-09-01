@@ -18,6 +18,7 @@ class GameState(Enum):
     INGAME_PAUSED = 3
     INGAME_RESTARTING = 4
     INGAME_REPLAYING = 5
+    REPLAY_WATCHING = 6
 
 
 class RaceState(Enum):
